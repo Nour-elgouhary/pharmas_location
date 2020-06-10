@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pharma\'s location</string>
+    <string name="Button_Get_Location">Get Location </string>
+
+</resources>
